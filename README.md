@@ -8,7 +8,7 @@ Database - ❌
 
 Specific:
 
-[Figure out how to determine if a location is within a given area](#Location Radius)
+[Figure out how to determine if a location is within a given area](#LocationRadius)
 
 
 
@@ -37,5 +37,5 @@ Specific:
 
 
 
-#Location Radius
+#LocationRadius
 
