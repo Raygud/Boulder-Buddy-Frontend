@@ -8,5 +8,34 @@ Database - ❌
 
 Specific:
 
-[Figure out how to determine if a location is within a given area](#foo)
+[Figure out how to determine if a location is within a given area](#Location Radius)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(#Location Radius
 
